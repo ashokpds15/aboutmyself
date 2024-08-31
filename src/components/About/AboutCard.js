@@ -30,9 +30,11 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "गल्ति गर्नु प्रकृति हो‚
+                 गल्ति स्वीकार्नु संकृति हो‚
+                     गल्ति सुधार्नु प्रगति हो ।"{" "}
           </p>
-          <footer className="blockquote-footer">Ashok</footer>
+          <footer className="blockquote-footer">अशोक पुडासैनी</footer>
         </blockquote>
       </Card.Body>
     </Card>
