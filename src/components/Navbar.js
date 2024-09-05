@@ -92,7 +92,7 @@ function NavBar() {
                 to="/resume"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
+                <AiOutlineStock style={{ marginBottom: "5px" }} /> Live NEPSE
               </Nav.Link>
             </Nav.Item>
 
@@ -106,16 +106,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
-              <Nav.Link
-                href="https://nepsealpha.com/stock-heat-map-live"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <AiOutlineStock style={{ marginBottom: "2px" }} /> NEPSE Live
-                </Nav.Link>
-                </Nav.Item>
-               
+             
             <Nav.Item>
               <Nav.Link
                 href="https://meroshare.cdsc.com.np/#/login"
